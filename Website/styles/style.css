@@ -1,0 +1,76 @@
+body {
+  color: white;
+  margin-bottom: 50px;
+  font-family: "Tahoma";
+  background-color: #36454f;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 2em;
+  justify-content: space-around;
+  border: 2px solid;
+  background: white;
+  width: 100%;
+}
+
+h1 {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  border: 2px solid black;
+  background: white;
+  padding: 1%;
+  color: black;
+  margin: 1%;
+}
+
+section {
+  height: 70vh;
+  background-image: url(/Website/img/amsterdambovenaf.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+nav {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+a {
+  background: aqua;
+  border-radius: 5px;
+}
+
+a:hover {
+  background: grey;
+  transition: 2000ms;
+}
+
+p {
+  text-align: center;
+  font-weight: lighter;
+}
+
+ol {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  font-display: center;
+}
+
+@keyframes fadeIn {
+}
+
+footer {
+  background-color: white;
+  color: gray;
+  text-align: center;
+  padding: 0.5%;
+  border: 2px solid black;
+
+}
