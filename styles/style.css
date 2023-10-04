@@ -43,13 +43,13 @@ nav {
 
 a {
   background: aqua;
-  border-radius: 5px;
-  text-decoration: none;
+  border-radius: 20%;
+  text-decoration:none;
 }
 
 a:hover {
   background: grey;
-  transition: 2000ms;
+  transition: 1500ms;
 }
 
 p {
@@ -64,15 +64,27 @@ ol {
   font-display: center;
 }
 
-@keyframes fadeIn {
-}
-
 footer {
   background-color: white;
   color: gray;
-  text-align: center;
   padding: 0.2%;
   border: 2px solid black;
-  position: center;
   bottom: -5;
+  display: flex;
+  justify-content: space-around;
+}
+
+div {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+}
+
+.gegevens {
+display:block;
+list-style-type:circle;
+color: black;
+background-color: teal;
+width: 80vh;
+padding: 5vh;
 }
