@@ -1,9 +1,11 @@
-        <!--<ul> 
-        <li> https://favorflav.com/images/Terras-Amsterdam-1.jpg </li>
-        <li> https://chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2</li>
-        <li> //chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2</li>
-        <li>https://chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2</li>
-        <li>https://www.pubcoach.com/storage/pub-images/2477/ErFlUIXPkX8TetcFUFNSTyj70GE3MmvTT9wDKoMY.jpeg</li>
-        <li></li>
+
+         https://favorflav.com/images/Terras-Amsterdam-1.jpg Deze link is de afbeelding van het terras van zuylen op de top 3 pagina.
+
+        https://chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2 Deze link is de tekst/content die staat bij de terrassen gemaakt door chatgpt.
+
+        //chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2
+
+        https://chat.openai.com/c/58e433f0-59da-440f-a43a-4edd9e454db2 deze link is de tekst van de homepagina gemaakt door chatgpt.
+
+        https://www.pubcoach.com/storage/pub-images/2477/ErFlUIXPkX8TetcFUFNSTyj70GE3MmvTT9wDKoMY.jpeg Dit is de link van de afbeelding van cafe helmers op de pagina top3 terrassen.
         
-        </ul>-->
