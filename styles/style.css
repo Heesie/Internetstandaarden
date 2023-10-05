@@ -6,11 +6,12 @@ body {
   font-size: large;
 }
 
+
 ul {
   display: flex;
   list-style-type: none;
   gap: 2em;
-  justify-content: space-around;
+  justify-content: space-evenly;
   border: 2px solid black;
   background: white;
   width: 100%;
@@ -83,11 +84,15 @@ ol {
   display: flex;
   list-style-type: none;
   justify-content: space-evenly;
+  margin-right: 38px;
 }
 
-.randje{
-border: 2px solid black;
+.top3fotos{
 border-radius: 1em;
+box-shadow: black 5px 5px 25px;
+display: flex;
+list-style-type: none;
+justify-content: space-evenly;
 }
 
 footer {
@@ -115,15 +120,17 @@ width: 80vh;
 padding: 5vh;
 }
 
-.tekstrand{
-  display: flex;
-  justify-content: space-evenly;
-border: 2px solid black;
-border-radius: 2em;
-background: white;
-color: black;
-}
 
 .map{
   width: 100%;
+}
+
+.fotosvanmij{
+border-radius: 1em;
+box-shadow: black 5px 5px 25px;
+display: flex;
+list-style-type: none;
+justify-content: space-evenly;
+margin-bottom: 40px;
+margin-top: 20px;
 }
