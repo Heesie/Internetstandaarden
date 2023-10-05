@@ -115,3 +115,12 @@ background-color: teal;
 width: 80vh;
 padding: 5vh;
 }
+
+.tekstrand{
+  display: flex;
+  justify-content: space-evenly;
+border: 2px solid black;
+border-radius: 2em;
+background: white;
+color: black;
+}
