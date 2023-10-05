@@ -3,6 +3,7 @@ body {
   margin-bottom: 50px;
   font-family: "Tahoma";
   background-color: #36454f;
+  font-size: large;
 }
 
 ul {
@@ -10,7 +11,7 @@ ul {
   list-style-type: none;
   gap: 2em;
   justify-content: space-around;
-  border: 2px solid;
+  border: 2px solid black;
   background: white;
   width: 100%;
 }
@@ -24,6 +25,15 @@ h1 {
   padding: 1%;
   color: black;
   margin: 1%;
+}
+
+h2 {
+display: flex;
+justify-content: space-evenly;
+border: 2px solid black;
+background: white;
+color: black;
+margin: 2%;
 }
 
 section {
@@ -50,6 +60,12 @@ a {
 a:hover {
   background: grey;
   transition: 1500ms;
+  transform: translateY(-10px);
+}
+
+a:active {
+transform:translateY(150px) ;
+
 }
 
 p {
@@ -60,16 +76,19 @@ p {
 ol {
   display: flex;
   list-style-type: none;
-  justify-content: space-around;
+  justify-content: space-evenly;
   font-display: center;
+}
+
+.randje{
+border: 2px solid black;
 }
 
 footer {
   background-color: white;
   color: gray;
-  padding: 0.2%;
+  padding: 1%;
   border: 2px solid black;
-  bottom: -5;
   display: flex;
   justify-content: space-around;
 }
