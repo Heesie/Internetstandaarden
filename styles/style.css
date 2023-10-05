@@ -83,7 +83,6 @@ ol {
   display: flex;
   list-style-type: none;
   justify-content: space-evenly;
-  font-display: center;
 }
 
 .randje{
@@ -123,4 +122,8 @@ border: 2px solid black;
 border-radius: 2em;
 background: white;
 color: black;
+}
+
+.map{
+  width: 100%;
 }
