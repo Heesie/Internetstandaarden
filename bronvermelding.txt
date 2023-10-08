@@ -21,4 +21,7 @@
         https://www.google.com/search?sca_esv=570683219&rlz=1C1UEAD_nlNL970NL971&sxsrf=AM9HkKlgMvhvTmOjytMO94TLz99OJ10pZg:1696434006295&q=logo+tiktok&tbm=isch&source=lnms&sa=X&ved=2ahUKEwifztGS3dyBAxVJhv0HHQAvAssQ0pQJegQIDBAB&biw=1280&bih=603&dpr=1.5
         deze link is het logo van tiktok in mijn footer
 
+        https://www.google.nl/maps/@52.369015,4.8619607,14z?hl=nl&entry=ttu
+        deze link is de map op mijn contact pagina
+
 
